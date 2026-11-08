@@ -1,0 +1,9 @@
+# Central Texas Lawn Leveling
+User-agent: *
+Allow: /
+Disallow: /thank-you
+Disallow: /thank-you-quote-request
+Disallow: /thank-you-for-subscribing
+Disallow: /thank-you-feedback
+
+Sitemap: https://centraltexaslawnleveling.com/sitemap.xml
